@@ -1,0 +1,4 @@
+git init -> Initialize the git repository
+git status -> print the status of git
+git add -> Add to track
+git config -- global user.name "huyen" -> One username
